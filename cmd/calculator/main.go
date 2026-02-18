@@ -7,6 +7,7 @@ import (
 	"calculator/internal/parser"
 	"strings"
 	"calculator/internal/core"
+	"calculator/internal/service"
 )
 
 type Token struct {
@@ -41,7 +42,7 @@ func main() {
 		}
 
 
-		tokens, err := parser.Tokenize(expr)
+		tokens, err := service.Tokenize(expr)
 		if err != nil {
 			fmt.Println("Error:", err)
 			continue
