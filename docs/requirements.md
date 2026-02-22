@@ -1,7 +1,7 @@
 ## ** 🧮 Go Calculator with UI **
 
 Version: 1.0.0
-Author: Thuku Samuel / Clare
+Author: Thuku Samuel
 Last Updated: 02/02/2026
 
 ## **📌 Project Overview**
