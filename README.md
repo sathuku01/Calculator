@@ -1,28 +1,3 @@
 # Calculator
-Obviously, the first project is always a calculator—so here’s mine. Built in Go as a fun way to learn, break things, fix them, and slowly become a better coder (one calculation at a time)
-
-below is how the project will be handled:
-
-
-    Define Requirements
-            ↓
-    Define Interfaces
-            ↓
-    Write Unit Tests
-            ↓
-    Implement Core Logic
-            ↓
-    Run Unit Tests
-            ↓
-    Build UI
-            ↓
-    Integration Tests
-            ↓
-    Manual UI Testing
-            ↓
-    Code Review
-            ↓
-    Refactor
-            ↓
-    Done
+A lightweight calculator application developed for learning purposes. This project focuses on implementing basic arithmetic operations while strengthening skills in clean code structure, problem-solving, and user interaction.
 
